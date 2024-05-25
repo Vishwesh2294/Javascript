@@ -8,5 +8,5 @@ console.log(myCreatedDate.toString())     // starts from 0 in js
 let myCreatedDate1 =  new Date(2024,0,22,5,3) 
 console.log(myCreatedDate1.toLocaleString()) 
 
-let myCreatedDate2 =  new Date("2024-09-22") //=> another format of writing date
+let myCreatedDate2 =  new Date("2024-09-22") //=> another format of writing dates 
 console.log(myCreatedDate2.toString())
